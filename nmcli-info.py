@@ -29,5 +29,7 @@ try:
 #    nmcli.connection.down('AP1')
  #   nmcli.connection.up('AP1')
   #  nmcli.connection.delete('AP1')
+        
+        # TAKEN FROM nmcli GITHUB PAGE
 except Exception as e:
     print(e)
