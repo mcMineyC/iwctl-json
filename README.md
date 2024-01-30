@@ -1,0 +1,1 @@
+This is a collection of scripts that get the currently connected wifi from iwd/nmcli
