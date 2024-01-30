@@ -1,0 +1,3 @@
+*.build
+nmcli-info
+__pycache__
